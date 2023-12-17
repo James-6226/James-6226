@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @James-6226
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning CSS
-- 💞️ I’m looking to collaborate on any project
+- 💞️ I’m looking to collaborate with anybody
 - 📫 How to reach me: by email = jamesmarioturner@gmail.com
 
 <!---
